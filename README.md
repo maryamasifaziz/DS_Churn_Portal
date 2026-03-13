@@ -16,8 +16,7 @@
 ---
 
 ## 📸 Screenshots
-![Dashboard Screenshot 1](images/dashboard1.png)
-![Dashboard Screenshot 2](images/dashboard2.png)
+![Dashboard Screenshot 1](images/dashboard.png)
 
 ---
 
